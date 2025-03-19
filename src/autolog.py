@@ -43,7 +43,7 @@ with mlflow.start_run():
     plt.ylabel("Actual")
     plt.xlabel("Predicted")
     plt.title("Confusion_metrix")
-    
+
     # Save Plot
     plt.savefig("Confusion_metrix.png") 
     
