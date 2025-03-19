@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0e982f37dbce4db6a7ec6144b139478e/artifacts
+end_time: 1742358146904
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e982f37dbce4db6a7ec6144b139478e
+run_name: merciful-smelt-704
+run_uuid: 0e982f37dbce4db6a7ec6144b139478e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742358146601
+status: 3
+tags: []
+user_id: Bansil

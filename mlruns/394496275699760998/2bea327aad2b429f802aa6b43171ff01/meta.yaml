@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/394496275699760998/2bea327aad2b429f802aa6b43171ff01/artifacts
+end_time: 1742361180872
+entry_point_name: ''
+experiment_id: '394496275699760998'
+lifecycle_stage: active
+run_id: 2bea327aad2b429f802aa6b43171ff01
+run_name: righteous-skunk-368
+run_uuid: 2bea327aad2b429f802aa6b43171ff01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742361179809
+status: 3
+tags: []
+user_id: Bansil

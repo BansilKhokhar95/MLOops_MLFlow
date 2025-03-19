@@ -1,0 +1,21 @@
+artifact_path: Rnadom -Forest_Model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 2.21.0
+model_size_bytes: 11617
+model_uuid: bd15855d96ad4ed8b6a0f757eaa2f0ed
+prompts: null
+run_id: bc33d4f0216f4f928f25a4cd7363af87
+utc_time_created: '2025-03-19 05:32:26.947652'

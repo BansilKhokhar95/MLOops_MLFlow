@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f92e3de69300450dab13a493a8a01353/artifacts
+end_time: 1742360491721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f92e3de69300450dab13a493a8a01353
+run_name: merciful-mule-899
+run_uuid: f92e3de69300450dab13a493a8a01353
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742360489332
+status: 3
+tags: []
+user_id: Bansil

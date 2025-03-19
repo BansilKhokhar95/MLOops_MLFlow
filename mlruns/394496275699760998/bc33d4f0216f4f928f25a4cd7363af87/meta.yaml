@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/394496275699760998/bc33d4f0216f4f928f25a4cd7363af87/artifacts
+end_time: 1742362367623
+entry_point_name: ''
+experiment_id: '394496275699760998'
+lifecycle_stage: active
+run_id: bc33d4f0216f4f928f25a4cd7363af87
+run_name: wise-eel-243
+run_uuid: bc33d4f0216f4f928f25a4cd7363af87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742362345955
+status: 3
+tags: []
+user_id: Bansil
