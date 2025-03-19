@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f5bafcd28d444e84be75a2b2d2b30ffc/artifacts
+end_time: 1742367417588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5bafcd28d444e84be75a2b2d2b30ffc
+run_name: capable-newt-206
+run_uuid: f5bafcd28d444e84be75a2b2d2b30ffc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742367417508
+status: 3
+tags: []
+user_id: Bansil

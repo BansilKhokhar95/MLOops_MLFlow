@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/74c8d257f4864c6b99f1741b3b70de5c/artifacts
+end_time: 1742367418624
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74c8d257f4864c6b99f1741b3b70de5c
+run_name: bustling-bee-76
+run_uuid: 74c8d257f4864c6b99f1741b3b70de5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742367418543
+status: 3
+tags: []
+user_id: Bansil

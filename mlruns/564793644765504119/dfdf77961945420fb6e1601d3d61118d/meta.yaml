@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps%20Practicals/MLOops_MLFlow/mlruns/564793644765504119/dfdf77961945420fb6e1601d3d61118d/artifacts
+end_time: 1742367585902
+entry_point_name: ''
+experiment_id: '564793644765504119'
+lifecycle_stage: active
+run_id: dfdf77961945420fb6e1601d3d61118d
+run_name: luxuriant-trout-64
+run_uuid: dfdf77961945420fb6e1601d3d61118d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742367585505
+status: 3
+tags: []
+user_id: Bansil

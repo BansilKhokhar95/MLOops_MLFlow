@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e0af815f974b43a2ad1dc61d00d6de36/artifacts
+end_time: 1742367417817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0af815f974b43a2ad1dc61d00d6de36
+run_name: learned-mare-927
+run_uuid: e0af815f974b43a2ad1dc61d00d6de36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742367417704
+status: 3
+tags: []
+user_id: Bansil

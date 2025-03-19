@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps%20Practicals/MLOops_MLFlow/mlruns/564793644765504119/5df611cb0a0f493985d425ef78634143/artifacts
+end_time: 1742367585488
+entry_point_name: ''
+experiment_id: '564793644765504119'
+lifecycle_stage: active
+run_id: 5df611cb0a0f493985d425ef78634143
+run_name: sedate-foal-738
+run_uuid: 5df611cb0a0f493985d425ef78634143
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742367585366
+status: 3
+tags: []
+user_id: Bansil

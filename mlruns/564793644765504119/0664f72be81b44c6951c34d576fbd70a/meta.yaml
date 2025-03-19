@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps%20Practicals/MLOops_MLFlow/mlruns/564793644765504119/0664f72be81b44c6951c34d576fbd70a/artifacts
+end_time: 1742367586357
+entry_point_name: ''
+experiment_id: '564793644765504119'
+lifecycle_stage: active
+run_id: 0664f72be81b44c6951c34d576fbd70a
+run_name: powerful-penguin-16
+run_uuid: 0664f72be81b44c6951c34d576fbd70a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742367586213
+status: 3
+tags: []
+user_id: Bansil

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps%20Practicals/MLOops_MLFlow/mlruns/564793644765504119/35df187f33764e939852e35f437ca235/artifacts
+end_time: 1742367604449
+entry_point_name: ''
+experiment_id: '564793644765504119'
+lifecycle_stage: active
+run_id: 35df187f33764e939852e35f437ca235
+run_name: adventurous-seal-493
+run_uuid: 35df187f33764e939852e35f437ca235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742367572767
+status: 3
+tags: []
+user_id: Bansil

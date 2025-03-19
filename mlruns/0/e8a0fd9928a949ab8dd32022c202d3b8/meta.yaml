@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e8a0fd9928a949ab8dd32022c202d3b8/artifacts
+end_time: 1742367417942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8a0fd9928a949ab8dd32022c202d3b8
+run_name: suave-seal-606
+run_uuid: e8a0fd9928a949ab8dd32022c202d3b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742367417836
+status: 3
+tags: []
+user_id: Bansil

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/836eacccd653427b9b6c4581732f4567/artifacts
+end_time: 1742367417689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 836eacccd653427b9b6c4581732f4567
+run_name: nervous-ox-135
+run_uuid: 836eacccd653427b9b6c4581732f4567
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742367417600
+status: 3
+tags: []
+user_id: Bansil

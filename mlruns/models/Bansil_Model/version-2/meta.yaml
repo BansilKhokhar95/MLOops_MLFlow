@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1742368672751
+current_stage: None
+description: ''
+last_updated_timestamp: 1742368672751
+name: Bansil_Model
+run_id: 35df187f33764e939852e35f437ca235
+run_link: ''
+source: models:/Bansil_Model/1
+status: READY
+status_message: null
+storage_location: file:///E:/MLOps%20Practicals/MLOops_MLFlow/mlruns/564793644765504119/35df187f33764e939852e35f437ca235/artifacts/random_forest
+user_id: null
+version: 2

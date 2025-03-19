@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps%20Practicals/MLOops_MLFlow/mlruns/564793644765504119/57e673e2dbec4915aea02be2d669cd8d/artifacts
+end_time: 1742367586058
+entry_point_name: ''
+experiment_id: '564793644765504119'
+lifecycle_stage: active
+run_id: 57e673e2dbec4915aea02be2d669cd8d
+run_name: melodic-gnat-834
+run_uuid: 57e673e2dbec4915aea02be2d669cd8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742367585941
+status: 3
+tags: []
+user_id: Bansil

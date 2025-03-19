@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps%20Practicals/MLOops_MLFlow/mlruns/564793644765504119/cda130495dcb463aaad9278fc587bc09/artifacts
+end_time: 1742367586556
+entry_point_name: ''
+experiment_id: '564793644765504119'
+lifecycle_stage: active
+run_id: cda130495dcb463aaad9278fc587bc09
+run_name: tasteful-hound-286
+run_uuid: cda130495dcb463aaad9278fc587bc09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742367586373
+status: 3
+tags: []
+user_id: Bansil
